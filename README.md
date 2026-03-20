@@ -87,18 +87,18 @@ Los commits permiten:
 ---
 
 
-## 1. ¿Qué es un merge?
+## ¿Qué es un merge?
 Un **merge** es el proceso de **unir los cambios de una rama con otra**.  
 Generalmente se usa para integrar el trabajo de una rama (por ejemplo, `feature`) en la rama principal (`main`).
 
 ---
 
-## 2. ¿Qué es un conflicto?
+##  ¿Qué es un conflicto?
 Un **conflicto** ocurre cuando Git no puede unir automáticamente los cambios, porque **dos personas modificaron la misma parte del código** de manera diferente.
 
 ---
 
-## 3. ¿Cómo puede evitarse o reducirse?
+##  ¿Cómo puede evitarse o reducirse?
 - Hacer **commits frecuentes y pequeños**  
 - Mantener tu rama actualizada con `main`  
 - Comunicarte con tu equipo sobre qué está trabajando cada uno  
